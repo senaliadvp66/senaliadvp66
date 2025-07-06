@@ -29,9 +29,11 @@ Welcome to my GitHub profile! I'm currently exploring the world of tech and lovi
 - Figma
 - Java
 - HTML & CSS
+- IntelliJ
+- ChatGPT 
+- Postman
 
 ---
-
 
 Thanks for visiting! 🌷  
 Stay tuned for more cool projects~  
