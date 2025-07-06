@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Lia 👋
 
-<!--
-**senaliadvp66/senaliadvp66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently exploring the world of tech and loving the process 💻✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+
+- Web Development (HTML, CSS, JavaScript)
+- Java & Object-Oriented Programming
+- UI/UX Design (with Figma)
+- Version Control with Git & GitHub
+
+---
+
+### 💬 Fun Facts About Me
+
+- 🧠 I love combining creativity & logic
+- 🎬 A movie buff & series binger (team nonton sampai subuh hehe)
+- 🌸 Always curious & open to new things!
+- 🐣 Just getting started, but learning every day!
+
+---
+
+### 🛠 Tools & Tech I'm Using
+
+- VS Code
+- Git & GitHub
+- Figma
+- Java
+- HTML & CSS
+
+---
+
+
+Thanks for visiting! 🌷  
+Stay tuned for more cool projects~  
