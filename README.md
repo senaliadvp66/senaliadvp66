@@ -1,7 +1,8 @@
 ## Hello World! I'm Lia 👋
 
-![senalia](img/⟢%20┈%20📓%20death%20note.jpg)
+![senalia](img/⟢%20┈%20📓%20death%20note.jpg) 
 
+hihiii
 
 Welcome to my GitHub profile! I'm currently exploring the world of tech and loving the process 💻✨
 
