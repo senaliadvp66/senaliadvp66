@@ -1,4 +1,7 @@
-## Hi, I'm Lia 👋
+## Hello World! I'm Lia 👋
+
+![senalia](img/⟢%20┈%20📓%20death%20note.jpg)
+
 
 Welcome to my GitHub profile! I'm currently exploring the world of tech and loving the process 💻✨
 
@@ -32,6 +35,10 @@ Welcome to my GitHub profile! I'm currently exploring the world of tech and lovi
 - IntelliJ
 - ChatGPT 
 - Postman
+
+### Connect with me on
+- [Instagram](http://instagram.com/senaliadvp)
+
 
 ---
 
