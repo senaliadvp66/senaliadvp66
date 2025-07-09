@@ -1,11 +1,11 @@
 
-<p align="right" style="margin-right:100px;">
+<p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=9E0917&width=435&lines=Hello+World!+I'm+Lia+%F0%9F%91%8B" 
   />
 </p>
 
-<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="16%" align="left" style="margin-top:-100px;" />
+<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="16%" align="left" style="margin-top:-200px;" />
 
 <p align="center" style="margin-top: 0px;">
   <font size="5">
