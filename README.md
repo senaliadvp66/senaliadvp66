@@ -5,10 +5,10 @@
   />
 </p>
 
-<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="16%" align="left" style="margin-top:-200px;" />
+<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="16%" align="left" style="margin-top:-300px;" />
 
 <p align="center" style="margin-top: 0px;">
-  <font size="5">
+  <font size="20">
     Welcome to my GitHub profile! I'm currently exploring<br>
     the world of tech and loving the process 💻✨
   </font>
