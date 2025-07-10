@@ -8,7 +8,7 @@
 <div align="center">
 <img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="15%" align="left" />
 <div align="center" style="margin-top: -20px;">
-  <p style="font-size: 30px; font-weight: 1000; max-width: 700px; margin-bottom: 20px;">
+  <p style="font-size: 100px; font-weight: 1000; max-width: 500px; margin-bottom: 20px;">
     Welcome to my GitHub profile! I'm currently exploring the world of tech and loving the process 💻✨
   </p>
 
