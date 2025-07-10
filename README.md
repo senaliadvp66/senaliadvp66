@@ -41,43 +41,18 @@
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+ <br></br>
 
+<div align="center">
+<img src="img/james & alyssa.jpg" width="25%" align="right" />
+<p align="center">
+  <span style="display: inline-block; width: 75%; text-align: justify; vertical-align: top;">
+    👋 Hi! My name is <strong>Ni Putu Balina Senalia Devi</strong>, but you can just call me <strong>Liaa</strong>. I'm 19 years old and currently living in the beautiful town of Ubud, Bali. I'm an undergraduate student who’s fortunate to be part of the <strong>PPTI 23</strong> batch under the PPTI BCA 2025 scholarship program. 
+  </span>
+</p>
+<br><br>
 
-
-### 🌱 Currently Learning
-
-- Web Development (HTML, CSS, JavaScript)
-- Java & Object-Oriented Programming
-- UI/UX Design (with Figma)
-- Version Control with Git & GitHub
-
----
-
-### 💬 Fun Facts About Me
-
-- 🧠 I love combining creativity & logic
-- 🎬 A movie buff & series binger (team nonton sampai subuh hehe)
-- 🌸 Always curious & open to new things!
-- 🐣 Just getting started, but learning every day!
-
----
-
-### 🛠 Tools & Tech I'm Using
-
-- VS Code
-- Git & GitHub
-- Figma
-- Java
-- HTML & CSS
-- IntelliJ
-- ChatGPT 
-- Postman
-
-### Connect with me on
-- [Instagram](http://instagram.com/senaliadvp)
-
-
----
+</div>
 
 Thanks for visiting! 🌷  
 Stay tuned for more cool projects~  
