@@ -5,15 +5,12 @@
   />
 </p>
 
-<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="16%" align="left" style="margin-top:-180px; margin-bottom:-100px;" />
-
-
-<p align="center" style="margin-top: 0px;">
-  <font size="100">
-    Welcome to my GitHub profile! I'm currently exploring<br>
-    the world of tech and loving the process 💻✨
-  </font>
-  <br><br>
+<div align="center">
+<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="25%" align="left" />
+<p align="center">
+  <span style="display: inline-block; width: 75%; text-align: justify; vertical-align: top;">
+    Welcome to my GitHub profile! I'm currently exploring the world of tech and loving the process 💻✨
+    <p align="center" style="margin-top: 0px;">
   <a href="http://instagram.com/senaliadvp">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -34,6 +31,12 @@
 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </p>
+  </span>
+</p>
+<br><br>
+
+</div>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
