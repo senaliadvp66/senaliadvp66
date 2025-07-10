@@ -7,28 +7,29 @@
 
 <div align="center">
 <img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="15%" align="left" />
-<div align="center" style="margin-top: -30px;">
-  <p style="font-size: 18px; max-width: 600px;">
+<div align="center" style="margin-top: -20px;">
+  <p style="font-size: 24px; font-weight: 600; max-width: 700px; margin-bottom: 20px;">
     Welcome to my GitHub profile! I'm currently exploring the world of tech and loving the process 💻✨
   </p>
 
-  <div style="margin-top: 15px;">
+  <div style="margin-top: 10px;">
     <a href="http://instagram.com/senaliadvp">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="25px" />
     </a>
     <a href="https://discord.com/invite/jbPYPr2YDA">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="25px" />
     </a>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="25px" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="25px" />
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" height="25px" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="25px" />
     <br />
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white" height="25px" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25px" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" height="25px" />
   </div>
 </div>
+
 
   </span>
 </p>
