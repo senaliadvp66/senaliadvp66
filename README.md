@@ -47,7 +47,7 @@
 <img src="img/james & alyssa.jpg" width="10%" align="right" />
 <p align="center">
   <span style="display: inline-block; width: 75%; text-align: justify; vertical-align: top;">
-    👋 Hi! My name is <strong>Ni Putu Balina Senalia Devi</strong>, but you can just call me <strong>Liaa</strong>. I'm 19 years old and currently living in the beautiful town of Ubud, Bali. I'm an undergraduate student who’s fortunate to be part of the <strong>PPTI 23</strong> batch under the PPTI BCA 2025 scholarship program. 
+    👋 Hi! My name is <strong>Ni Putu Balina Senalia Devi</strong>, but you can just call me <strong>Liaa</strong>. I'm 19 years old and currently living in Ubud, Bali. I'm an undergraduate student who’s fortunate to be part of the <strong>PPTI 23</strong> batch under the PPTI BCA 2025 scholarship program. 
   </span>
 </p>
 <br><br>
