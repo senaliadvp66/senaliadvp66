@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=9E0917&width=435&lines=Hello+World!+I'm+Lia+%F0%9F%91%8B" 
   />
@@ -8,9 +8,9 @@
 <div align="center">
 <img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="15%" align="left" />
 <p align="center">
-  <span style="display: inline-block; width: 75%; text-align: justify; vertical-align: top;">
+  <span style="display: inline-block; width: 100%; text-align: justify; vertical-align: top;">
     Welcome to my GitHub profile! I'm currently exploring the world of tech and loving the process 💻✨
-    <p align="center" style="margin-top: 0px;">
+    <p align="center" style="margin-top:0px;">
   <a href="http://instagram.com/senaliadvp">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
