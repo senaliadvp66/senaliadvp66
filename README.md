@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="25%" align="left" />
+<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="15%" align="left" />
 <p align="center">
   <span style="display: inline-block; width: 75%; text-align: justify; vertical-align: top;">
     Welcome to my GitHub profile! I'm currently exploring the world of tech and loving the process 💻✨
