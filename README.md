@@ -5,7 +5,8 @@
   />
 </p>
 
-<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="16%" align="left" style="margin-top:-300px;" />
+<img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="16%" align="left" style="margin-top:-180px; margin-bottom:-100px;" />
+
 
 <p align="center" style="margin-top: 0px;">
   <font size="100">
