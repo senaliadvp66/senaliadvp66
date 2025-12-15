@@ -10,9 +10,7 @@
 <img src="img/ba68cf3183a7dfd8479135f49008fc86-removebg-preview.png" width="15%" align="left" />
 <h3 align="center">Welcome to my GitHub profile! 👋</h3>
 
-<p align="center">
-  <strong>I'm currently exploring the world of tech and loving the process 💻✨</strong>
-</p>
+
 
 <p align="center">
   <a href="http://instagram.com/senaliadvp">
