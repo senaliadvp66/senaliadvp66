@@ -47,7 +47,7 @@
 <img src="img/james & alyssa.jpg" width="10%" align="right" />
 <p align="center">
   <span style="display: inline-block; width: 75%; text-align: justify; vertical-align: top;">
-    👋 Hi! My name is <strong>Liaaaaaaaaaaaaaaaaaa</strong>, but you can just call me <strong>Liaa</strong>.
+    👋 Hi! My name is <strong>Liaaaaaaaaaaaaaaaaaa</strong>.
   </span>
 </p>
 <br><br>
